@@ -1,24 +1,21 @@
-# README
+<h1 align="center">Fightback</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<div align="center">
+  <strong>Frontend & API for Figthback Services</strong>
+</div>
+<div align="center">
+  Based on <code>Rails</code>.
+</div>
 
-Things you may want to cover:
+<br />
 
-* Ruby version
+<div align="center">
+  <!-- Stability -->
+  <a href="https://nodejs.org/api/documentation.html#documentation_stability_index">
+    <img src="https://img.shields.io/badge/stability-experimental-orange.svg?style=flat-square"
+      alt="API stability" />
+  </a>
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  <!-- Python !-->
+  <img src="https://img.shields.io/badge/platform-linux%2C%20osx-lightgrey.svg?style=flat-square" alt="">
+</div>
